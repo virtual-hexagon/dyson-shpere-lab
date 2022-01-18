@@ -1,0 +1,9 @@
+{
+  "item": "high_purity_silicon",
+  "tier": "1",
+  "made_in": "smelter",
+  "needs":
+    {
+      "silicon_ore": 2
+    }
+}
