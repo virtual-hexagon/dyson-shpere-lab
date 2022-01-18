@@ -1,0 +1,9 @@
+{
+  "item": "iron_ingot",
+  "tier": "1",
+  "needs":
+    {
+        "iron_ore": 1
+    },
+  "made_in": "vain"
+}
