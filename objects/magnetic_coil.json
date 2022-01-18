@@ -1,6 +1,6 @@
 {
-    "item": "magnetic_coil",
-    "tier": "2",
-    "needs": ["copper plate", "magnet" ],
-    "made_in": "smelter"
+  "item": "magnetic_coil",
+  "tier": "2",
+  "needs": ["copper plate", "magnet" ],
+  "made_in": "smelter"
 }

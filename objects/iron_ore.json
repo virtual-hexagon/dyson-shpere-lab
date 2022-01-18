@@ -1,6 +1,6 @@
 {
-    "item": "iron ore",
-    "tier": "0",
-    "needs": "none",
-    "made_in": "vain"
+  "item": "iron_ore",
+  "tier": "0",
+  "needs": "none",
+  "made_in": "vain"
 }

@@ -1,9 +1,9 @@
 {
   "item": "iron_ingot",
   "tier": "1",
+  "made_in": "smelter",
   "needs":
     {
-        "iron_ore": 1
-    },
-  "made_in": "vain"
+      "iron_ore": 1
+    }
 }

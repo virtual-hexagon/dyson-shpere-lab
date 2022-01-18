@@ -1,6 +1,6 @@
 {
-    "item": "titanium ore",
-    "tier": "0",
-    "needs": "none",
-    "made_in": "vain"
+  "item": "titanium_ore",
+  "tier": "0",
+  "needs": "none",
+  "made_in": "vain"
 }

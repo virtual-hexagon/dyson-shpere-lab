@@ -1,6 +1,6 @@
 {
-    "item": "magnet",
-    "tier": "1",
-    "needs": "iron ore",
-    "made_in": "smelter"
+  "item": "magnet",
+  "tier": "1",
+  "needs": "iron ore",
+  "made_in": "smelter"
 }
