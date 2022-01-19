@@ -1,0 +1,11 @@
+{
+  "item": "graphene",
+  "tier": "3",
+  "made_in": "chemical_plant",
+  "needs":
+    {
+      "sulfuric_acid": 1,
+      "energetic_graphite": 3,
+    },
+  "alt": "vien"
+}

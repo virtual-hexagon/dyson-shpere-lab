@@ -1,0 +1,8 @@
+{
+  "item": "steel",
+  "tier": "2",
+  "made_in": "smelter",
+  "needs": {
+    "iron_ingot": 3
+  }
+}

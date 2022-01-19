@@ -1,0 +1,8 @@
+{
+  "item": "prism",
+  "tier": "3",
+  "made_in": "assembler",
+  "needs": {
+    "glass": 3
+  }
+}

@@ -1,0 +1,9 @@
+{
+  "item": "titanium_crystal",
+  "tier": "4",
+  "made_in": "assembler",
+  "needs": {
+    "organic_crystal": 1,
+    "titanium_ingot": 3
+  }
+}

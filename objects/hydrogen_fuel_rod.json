@@ -1,0 +1,9 @@
+{
+  "item": "hydrogen_fuel_rod",
+  "tier": "2",
+  "made_in": "assembler",
+  "needs": {
+    "hydrogen": 10,
+    "titanium_ingot": 1
+  }
+}

@@ -1,0 +1,9 @@
+{
+  "item": "light_oil",
+  "tier": "1",
+  "needs": 
+    {
+      "crude_oil": 2
+    },
+  "made_in": "oil_refinery"
+}

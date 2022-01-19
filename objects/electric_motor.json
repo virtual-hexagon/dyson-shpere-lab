@@ -1,0 +1,10 @@
+{
+  "item": "electric_motor",
+  "tier": "3",
+  "made_in": "assembler",
+  "needs": {
+    "iron_ingot": 2,
+    "gear": 1,
+    "magnetic_coil": 1
+  }
+}

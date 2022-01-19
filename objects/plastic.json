@@ -1,0 +1,11 @@
+{
+  "item": "plastic",
+  "tier": "2",
+  "made_in": "chemical_plant",
+  "needs":
+    {
+      "light_oil": 2,
+      "energetic_graphite": 1
+    },
+  "alt": "vien"
+}

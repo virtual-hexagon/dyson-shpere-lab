@@ -1,0 +1,10 @@
+{
+  "item": "organic_crystal",
+  "tier": "3",
+  "made_in": "chemical_plant",
+  "needs": {
+    "plastic": 2,
+    "light_oil": 1,
+    "water": 1
+  }
+}

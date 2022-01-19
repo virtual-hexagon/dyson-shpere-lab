@@ -1,0 +1,9 @@
+{
+  "item": "thruster",
+  "tier": "5",
+  "made_in": "assembler",
+  "needs": {
+    "titanium_alloy": 5,
+    "electromagnetic_turbine": 5
+  }
+}

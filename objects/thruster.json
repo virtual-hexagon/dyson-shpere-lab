@@ -1,0 +1,9 @@
+{
+  "item": "thruster",
+  "tier": "3",
+  "made_in": "assembler",
+  "needs": {
+    "steel": 2,
+    "copper_ingot": 3
+  }
+}
