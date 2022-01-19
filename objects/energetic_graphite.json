@@ -1,6 +1,14 @@
 {
   "item": "energetic_graphite",
   "tier": "1",
-  "needs": "coal",
-  "made_in": "smelter"
-}   
+  "made_in": "smelter",
+  "needs": {
+    "coal": 2
+  },
+  "alt":{
+    "xray_cracking": {
+      "hydrogen": 2,
+      "light_oil": 1
+    }
+  }
+}
