@@ -1,10 +1,9 @@
 {
   "item": "magnetic_coil",
   "tier": "2",
-  "needs": 
-    {
-      "copper plate": 1,
-      "magnet": 2
-    },
+  "needs": {
+    "copper plate": 1,
+    "magnet": 2
+  },
   "made_in": "assembler"
 }

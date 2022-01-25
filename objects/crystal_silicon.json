@@ -2,9 +2,8 @@
   "item": "crystal_silicon",
   "tier": "2",
   "made_in": "smelter",
-  "needs": 
-    {
-      "high_purity_silicon": 1,
-    },
+  "needs": {
+    "high_purity_silicon": 1,
+  },
   "alt": "vain"
 }

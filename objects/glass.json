@@ -2,8 +2,7 @@
   "item": "glass",
   "tier": "1",
   "made_in": "smelter",
-  "needs": 
-    {
-      "stone": 2,
-    } 
+  "needs": {
+    "stone": 2,
+  }
 }

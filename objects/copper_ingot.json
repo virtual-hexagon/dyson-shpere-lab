@@ -2,8 +2,7 @@
   "item": "copper_ingot",
   "tier": "1",
   "made_in": "smelter",
-  "needs":
-    {
-      "copper_ore": 1
-    }
+  "needs": {
+    "copper_ore": 1
+  }
 }

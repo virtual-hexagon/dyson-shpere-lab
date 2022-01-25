@@ -2,9 +2,8 @@
   "item": "silicon_ore",
   "tier": "1",
   "made_in": "smelter",
-  "needs":
-    {
-      "stone": 10
-    },
+  "needs": {
+    "stone": 10
+  },
   "alt": "vain"
 }

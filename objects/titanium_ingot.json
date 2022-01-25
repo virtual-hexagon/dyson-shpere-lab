@@ -2,8 +2,7 @@
   "item": "titanium_ingot",
   "tier": "1",
   "made_in": "smelter",
-  "needs":
-    {
-      "titanium_ore": 2
-    }
+  "needs": {
+    "titanium_ore": 2
+  }
 }

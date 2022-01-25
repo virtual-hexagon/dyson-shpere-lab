@@ -2,10 +2,9 @@
   "item": "titanium_alloy",
   "tier": "3",
   "made_in": "smelter",
-  "needs": 
-    {
-      "titanium_ingot": 4,
-      "steel": 4,
-      "sulfuric_acid": 8
-    } 
+  "needs": {
+    "titanium_ingot": 4,
+    "steel": 4,
+    "sulfuric_acid": 8
+  } 
 }

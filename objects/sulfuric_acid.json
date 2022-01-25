@@ -2,11 +2,10 @@
   "item": "sulfuric_acid",
   "tier": "2",
   "made_in": "chemical_plant",
-  "needs":
-    {
-      "light_oil": 6,
-      "stone": 8,
-      "water": 4
-    },
+  "needs": {
+    "light_oil": 6,
+    "stone": 8,
+    "water": 4
+  },
   "alt": "vien"
 }
