@@ -1,0 +1,9 @@
+{
+  "item": "annihilation_constraint_shpere",
+  "tier": "5",
+  "made_in": "assembler",
+  "needs": {
+    "particle_container": 1,
+    "processor": 1
+  }
+}

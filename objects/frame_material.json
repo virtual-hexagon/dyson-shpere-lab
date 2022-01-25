@@ -1,0 +1,10 @@
+{
+  "item": "frame_material",
+  "tier": "5",
+  "made_in": "assembler",
+  "needs": {
+    "carbon_nanotube": 4,
+    "titanium_alloy": 1,
+    "high_purity_silicon": 1
+  }
+}

@@ -1,0 +1,13 @@
+{
+  "item": "universe_matrix",
+  "tier": "2",
+  "made_in": "research_facility",
+  "needs": {
+    "electromagnetic_matrix": 1,
+    "energy_matrix": 1,
+    "structure_matrix": 1,
+    "information_matrix": 1,
+    "gravity_matrix": 1,
+    "antimatter": 1
+  }
+}

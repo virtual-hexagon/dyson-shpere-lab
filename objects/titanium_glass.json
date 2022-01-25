@@ -1,0 +1,11 @@
+{
+  "item": "titanium_glass",
+  "tier": "4",
+  "made_in": "assembler",
+  "needs": {
+    "antimatter": 12,
+    "titanium_alloy": 1,
+    "annihilation_constraint_shpere": 1,
+    "hydrogen": 12
+  }
+}

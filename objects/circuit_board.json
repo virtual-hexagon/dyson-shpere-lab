@@ -1,0 +1,9 @@
+{
+  "item": "circuit_board",
+  "tier": "3",
+  "needs": {
+    "iron_ingot": 2,
+    "copper_ingot": 2,
+  },
+  "made_in": "assembler"
+}

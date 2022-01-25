@@ -1,0 +1,9 @@
+{
+  "item": "plasma_exciter",
+  "tier": "4",
+  "made_in": "assembler",
+  "needs": {
+    "magnetic_coil": 4,
+    "prism": 2
+  }
+}

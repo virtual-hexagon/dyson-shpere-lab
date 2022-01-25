@@ -1,0 +1,9 @@
+{
+  "item": "energy_matrix",
+  "tier": "2",
+  "made_in": "research_facility",
+  "needs": {
+    "energetic_graphite": 2,
+    "hydrogen": 2
+  }
+}

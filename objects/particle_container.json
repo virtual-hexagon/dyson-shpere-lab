@@ -1,0 +1,14 @@
+{
+  "item": "particle_container",
+  "tier": "5",
+  "made_in": "assembler",
+  "needs": {
+    "electromagnetic_turbine": 2,
+    "copper_ingot": 2,
+    "graphene": 2
+  },
+  "alt": {
+    "unipolar_magnet": 10,
+    "copper_ingot": 2
+  }
+}

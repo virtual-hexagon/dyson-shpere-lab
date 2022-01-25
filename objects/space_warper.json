@@ -1,0 +1,11 @@
+{
+  "item": "casimir_crystal",
+  "tier": "4",
+  "made_in": "assembler",
+  "needs": {
+    "graviton_lens": 1,
+  },
+  "alt": {
+    "gravity_matrix": 1
+  }
+}

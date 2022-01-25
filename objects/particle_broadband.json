@@ -1,0 +1,10 @@
+{
+  "item": "particle_broadband",
+  "tier": "5",
+  "made_in": "assembler",
+  "needs": {
+    "graphene": 2,
+    "crystal_silicon": 2,
+    "plastic": 1
+  }
+}

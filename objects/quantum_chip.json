@@ -1,0 +1,9 @@
+{
+  "item": "quantum_chip",
+  "tier": "5",
+  "made_in": "assembler",
+  "needs": {
+    "processor": 2,
+    "plane_filter": 2
+  }
+}

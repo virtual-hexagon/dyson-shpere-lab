@@ -1,0 +1,9 @@
+{
+  "item": "solar_sail",
+  "tier": "5",
+  "made_in": "assembler",
+  "needs": {
+    "graphene": 1,
+    "photon_combiner": 2
+  }
+} 

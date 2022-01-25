@@ -1,0 +1,9 @@
+{
+  "item": "electromagnetic_matrix",
+  "tier": "4",
+  "made_in": "assembler",
+  "needs": {
+    "magnetic_coil": 1,
+    "circuit_board": 1
+  }
+}

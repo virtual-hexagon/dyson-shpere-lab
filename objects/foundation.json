@@ -1,0 +1,9 @@
+{
+  "item": "foundation",
+  "tier": "3",
+  "made_in": "assembler",
+  "needs": {
+    "stone": 3,
+    "steel": 1
+  }
+}

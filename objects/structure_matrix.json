@@ -1,0 +1,9 @@
+{
+  "item": "structure_matrix",
+  "tier": "5",
+  "made_in": "research_facility",
+  "needs": {
+    "diamond": 2,
+    "titanium_crystal": 2
+  }
+} 

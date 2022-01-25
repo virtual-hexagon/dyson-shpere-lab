@@ -1,0 +1,9 @@
+{
+  "item": "plane_filter",
+  "tier": "4",
+  "made_in": "assembler",
+  "needs": {
+    "casimir_crystal": 1,
+    "titanium_glass": 2
+  }
+}

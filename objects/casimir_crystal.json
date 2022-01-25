@@ -1,0 +1,15 @@
+{
+  "item": "casimir_crystal",
+  "tier": "4",
+  "made_in": "assembler",
+  "needs": {
+    "titanium_crystal": 1,
+    "graphene": 2,
+    "hydrogen": 12
+  },
+  "alt": {
+    "optical_grating_crystal": 4,
+    "graphene": 2,
+    "hydrogen": 12
+  }
+}

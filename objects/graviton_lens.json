@@ -1,0 +1,9 @@
+{
+  "item": "graviton_lens",
+  "tier": "4",
+  "made_in": "assembler",
+  "needs": {
+    "diamond": 4,
+    "strange_matter": 1
+  }
+}

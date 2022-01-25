@@ -1,0 +1,13 @@
+{
+  "item": "photon_combiner",
+  "tier": "4",
+  "made_in": "assembler",
+  "needs": {
+    "prism": 2,
+    "circuit_board": 1
+  },
+  "alt": {
+    "circuit_board": 1,
+    "optical_grating_crystal": 1
+  }
+}

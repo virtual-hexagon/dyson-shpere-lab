@@ -1,0 +1,10 @@
+{
+  "item": "dyson_sphere_component",
+  "tier": "6",
+  "made_in": "assembler",
+  "needs": {
+    "frame_material": 3,
+    "solar_sail": 3,
+    "processor":3
+  }
+}

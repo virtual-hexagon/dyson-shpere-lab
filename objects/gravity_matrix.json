@@ -1,0 +1,9 @@
+{
+  "item": "gravity_matrix",
+  "tier": "2",
+  "made_in": "research_facility",
+  "needs": {
+    "graviton_lens": 1,
+    "quantum_chip": 1
+  }
+}

@@ -1,0 +1,9 @@
+{
+  "item": "proliferator_mk2.json",
+  "tier": "3",
+  "made_in": "assembler",
+  "needs": {
+    "diamond": 1,
+    "proliferator_mk1": 2
+  }
+}

@@ -1,0 +1,10 @@
+{
+  "item": "logistics_vessel",
+  "tier": "6",
+  "needs": {
+    "titanium_alloy": 10,
+    "processor": 10,
+    "reinforced_thruster": 2
+  },
+  "made_in": "assembler"
+}

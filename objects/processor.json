@@ -1,0 +1,9 @@
+{
+  "item": "processor",
+  "tier": "4",
+  "made_in": "assembler",
+  "needs": {
+    "microcrystalline_component": 2,
+    "circuit_board": 2
+  }
+}

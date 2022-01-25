@@ -1,0 +1,8 @@
+{
+  "item": "proliferator_mk1.json",
+  "tier": "1",
+  "made_in": "assembler",
+  "needs": {
+    "coal": 1
+  }
+}

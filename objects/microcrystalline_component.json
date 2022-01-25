@@ -1,0 +1,9 @@
+{
+  "item": "microcrystalline_component",
+  "tier": "3",
+  "made_in": "assembler",
+  "needs": {
+    "high_purity_silicon": 2,
+    "copper_ingot": 1
+  }
+}

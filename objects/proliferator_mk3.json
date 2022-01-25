@@ -1,0 +1,9 @@
+{
+  "item": "proliferator_mk3.json",
+  "tier": "5",
+  "made_in": "assembler",
+  "needs": {
+    "carbon_nanotube": 1,
+    "proliferator_mk2": 2
+  }
+}

@@ -1,0 +1,8 @@
+{
+  "item": "antimatter",
+  "tier": "1",
+  "made_in": "assembler",
+  "needs": {
+    "critical_photon": 2
+  }
+}

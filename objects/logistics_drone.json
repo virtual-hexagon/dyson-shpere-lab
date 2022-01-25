@@ -1,0 +1,10 @@
+{
+  "item": "logistics_drone",
+  "tier": "5",
+  "needs": {
+    "iron_ingot": 5,
+    "thruster": 2,
+    "processor": 2
+  },
+  "made_in": "assembler"
+}

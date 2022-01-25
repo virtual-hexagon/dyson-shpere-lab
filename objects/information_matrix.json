@@ -1,0 +1,9 @@
+{
+  "item": "information_matrix",
+  "tier": "2",
+  "made_in": "research_facility",
+  "needs": {
+    "processor": 2,
+    "particle_broadband": 1
+  }
+}

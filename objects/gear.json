@@ -1,0 +1,8 @@
+{
+  "item": "gear",
+  "tier": "2",
+  "needs": {
+    "iron_ingot" : 1
+  },
+  "made_in": "assembler"
+}

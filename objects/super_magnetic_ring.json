@@ -1,0 +1,10 @@
+{
+  "item": "super_magnetic_ring",
+  "tier": "5",
+  "made_in": "assembler",
+  "needs": {
+    "electromagnetic_turbine": 2,
+    "magnet": 3,
+    "energetic_graphite": 1
+  }
+}
