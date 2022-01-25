@@ -2,17 +2,14 @@
   "item": "hydrogen",
   "tier": "1",
   "made_in": ["fractionator", "oil_refinery", "vien"],
-  "needs":
-    {
-      "crude_oil": 2
-    },
-  "alt":
-    {
-      "vien": "none",
-      "xray_cracking":
-        {
-          "light_oil": 1,
-          "hydrogen": 2
-        }
+  "needs": {
+    "crude_oil": 2
+  },
+  "alt": {
+    "vien": "none",
+    "xray_cracking": {
+      "light_oil": 1,
+      "hydrogen": 2
     }
+  }
 }
