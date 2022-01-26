@@ -1,5 +1,6 @@
 {
-  "item": "dyson_sphere_component",
+  "name": "dyson_sphere_component",
+  "type": "item",
   "tier": "6",
   "made_in": "assembler",
   "needs": {

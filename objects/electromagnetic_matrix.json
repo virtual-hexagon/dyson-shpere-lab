@@ -1,5 +1,6 @@
 {
-  "item": "electromagnetic_matrix",
+  "name": "electromagnetic_matrix",
+  "type": "item",
   "tier": "4",
   "made_in": "assembler",
   "needs": {

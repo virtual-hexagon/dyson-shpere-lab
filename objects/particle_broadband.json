@@ -1,5 +1,6 @@
 {
-  "item": "particle_broadband",
+  "name": "particle_broadband",
+  "type": "item",
   "tier": "5",
   "made_in": "assembler",
   "needs": {

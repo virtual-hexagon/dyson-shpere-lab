@@ -1,5 +1,6 @@
 {
-  "item": "deuterium",
+  "name": "deuterium",
+  "type": "item",
   "tier": "2",
   "made_in": "fractionator",
   "needs": {

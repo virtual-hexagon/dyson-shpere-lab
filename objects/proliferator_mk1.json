@@ -1,5 +1,6 @@
 {
-  "item": "proliferator_mk1.json",
+  "name": "proliferator_mk1.json",
+  "type": "item",
   "tier": "1",
   "made_in": "assembler",
   "needs": {

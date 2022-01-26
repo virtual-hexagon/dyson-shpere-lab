@@ -1,5 +1,6 @@
 {
-  "item": "sulfuric_acid",
+  "name": "sulfuric_acid",
+  "type": "item",
   "tier": "2",
   "made_in": "chemical_plant",
   "needs": {

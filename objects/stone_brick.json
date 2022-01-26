@@ -1,5 +1,6 @@
 {
-  "item": "stone_brick",
+  "name": "stone_brick",
+  "type": "item",
   "tier": "1",
   "made_in": "smelter",
   "needs": {

@@ -1,5 +1,6 @@
 {
-  "item": "structure_matrix",
+  "name": "structure_matrix",
+  "type": "item",
   "tier": "5",
   "made_in": "research_facility",
   "needs": {

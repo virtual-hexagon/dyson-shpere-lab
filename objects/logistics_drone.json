@@ -1,5 +1,6 @@
 {
-  "item": "logistics_drone",
+  "name": "logistics_drone",
+  "type": "item",
   "tier": "5",
   "needs": {
     "iron_ingot": 5,

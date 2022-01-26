@@ -1,5 +1,6 @@
 {
-  "item": "light_oil",
+  "name": "light_oil",
+  "type": "item",
   "tier": "1",
   "needs": {
     "crude_oil": 2

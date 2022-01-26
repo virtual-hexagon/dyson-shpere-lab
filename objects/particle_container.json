@@ -1,5 +1,6 @@
 {
-  "item": "particle_container",
+  "name": "particle_container",
+  "type": "item",
   "tier": "5",
   "made_in": "assembler",
   "needs": {

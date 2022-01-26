@@ -1,5 +1,6 @@
 {
-  "item": "reinforced_thruster",
+  "name": "reinforced_thruster",
+  "type": "item",
   "tier": "5",
   "made_in": "assembler",
   "needs": {

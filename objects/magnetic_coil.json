@@ -1,5 +1,6 @@
 {
-  "item": "magnetic_coil",
+  "name": "magnetic_coil",
+  "type": "item",
   "tier": "2",
   "needs": {
     "copper plate": 1,

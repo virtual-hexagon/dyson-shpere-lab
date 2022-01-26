@@ -1,5 +1,6 @@
 {
-  "item": "copper_ingot",
+  "name": "copper_ingot",
+  "type": "item",
   "tier": "1",
   "made_in": "smelter",
   "needs": {

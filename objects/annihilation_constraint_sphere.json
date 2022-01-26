@@ -1,5 +1,6 @@
 {
-  "item": "annihilation_constraint_shpere",
+  "name": "annihilation_constraint_shpere",
+  "type": "item",
   "tier": "5",
   "made_in": "assembler",
   "needs": {

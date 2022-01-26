@@ -1,5 +1,6 @@
 {
-  "item": "optical_grating_crystal",
+  "name": "optical_grating_crystal",
+  "type": "item",
   "tier": "0",
   "needs": "none",
   "made_in": "vain"

@@ -1,5 +1,6 @@
 {
-  "item": "plastic",
+  "name": "plastic",
+  "type": "item",
   "tier": "2",
   "made_in": "chemical_plant",
   "needs": {

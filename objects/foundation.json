@@ -1,5 +1,6 @@
 {
-  "item": "foundation",
+  "name": "foundation",
+  "type": "item",
   "tier": "3",
   "made_in": "assembler",
   "needs": {

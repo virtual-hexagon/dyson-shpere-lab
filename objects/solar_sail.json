@@ -1,5 +1,6 @@
 {
-  "item": "solar_sail",
+  "name": "solar_sail",
+  "type": "item",
   "tier": "5",
   "made_in": "assembler",
   "needs": {

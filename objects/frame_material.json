@@ -1,5 +1,6 @@
 {
-  "item": "frame_material",
+  "name": "frame_material",
+  "type": "item",
   "tier": "5",
   "made_in": "assembler",
   "needs": {

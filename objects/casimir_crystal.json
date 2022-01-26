@@ -1,5 +1,6 @@
 {
-  "item": "casimir_crystal",
+  "name": "casimir_crystal",
+  "type": "item",
   "tier": "4",
   "made_in": "assembler",
   "needs": {

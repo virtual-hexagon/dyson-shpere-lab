@@ -1,5 +1,6 @@
 {
-  "item": "electric_motor",
+  "name": "electric_motor",
+  "type": "item",
   "tier": "3",
   "made_in": "assembler",
   "needs": {

@@ -1,5 +1,6 @@
 {
-  "item": "water",
+  "name": "water",
+  "type": "item",
   "tier": "0",
   "needs": "none",
   "made_in": "vain"

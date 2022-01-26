@@ -1,5 +1,6 @@
 {
-  "item": "super_magnetic_ring",
+  "name": "super_magnetic_ring",
+  "type": "item",
   "tier": "5",
   "made_in": "assembler",
   "needs": {

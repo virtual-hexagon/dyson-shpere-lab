@@ -1,9 +1,10 @@
 {
-  "item": "electromagnetic_turbine",
+  "name": "electromagnetic_turbine",
+  "type": "item",
   "tier": "4",
   "made_in": "research_facility",
   "needs": {
     "electric_motor": 2,
-    "magnetic_coil": 2,
+    "magnetic_coil": 2
   }
 }

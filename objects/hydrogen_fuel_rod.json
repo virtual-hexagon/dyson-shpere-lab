@@ -1,5 +1,6 @@
 {
-  "item": "hydrogen_fuel_rod",
+  "name": "hydrogen_fuel_rod",
+  "type": "item",
   "tier": "2",
   "made_in": "assembler",
   "needs": {

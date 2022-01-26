@@ -1,5 +1,6 @@
 {
-  "item": "processor",
+  "name": "processor",
+  "type": "item",
   "tier": "4",
   "made_in": "assembler",
   "needs": {

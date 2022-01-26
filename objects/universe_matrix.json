@@ -1,5 +1,6 @@
 {
-  "item": "universe_matrix",
+  "name": "universe_matrix",
+  "type": "item",
   "tier": "2",
   "made_in": "research_facility",
   "needs": {

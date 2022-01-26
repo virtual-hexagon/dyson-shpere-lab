@@ -1,5 +1,6 @@
 {
-  "item": "quantum_chip",
+  "name": "quantum_chip",
+  "type": "item",
   "tier": "5",
   "made_in": "assembler",
   "needs": {

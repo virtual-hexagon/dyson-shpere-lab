@@ -1,5 +1,6 @@
 {
-  "item": "titanium_crystal",
+  "name": "titanium_crystal",
+  "type": "item",
   "tier": "4",
   "made_in": "assembler",
   "needs": {

@@ -1,5 +1,6 @@
 {
-  "item": "logistics_vessel",
+  "name": "logistics_vessel",
+  "type": "item",
   "tier": "6",
   "needs": {
     "titanium_alloy": 10,

@@ -1,5 +1,6 @@
 {
-  "item": "critical_photon",
+  "name": "critical_photon",
+  "type": "item",
   "tier": "0",
   "needs": "none",
   "made_in": "vain"

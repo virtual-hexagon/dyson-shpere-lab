@@ -1,5 +1,6 @@
 {
-  "item": "magnet",
+  "name": "magnet",
+  "type": "item",
   "tier": "1",
   "needs": {
     "iron_ore": 1

@@ -1,5 +1,6 @@
 {
-  "item": "energetic_graphite",
+  "name": "energetic_graphite",
+  "type": "item",
   "tier": "1",
   "made_in": "smelter",
   "needs": {

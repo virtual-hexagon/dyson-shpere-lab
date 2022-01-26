@@ -1,5 +1,6 @@
 {
-  "item": "microcrystalline_component",
+  "name": "microcrystalline_component",
+  "type": "item",
   "tier": "3",
   "made_in": "assembler",
   "needs": {

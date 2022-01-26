@@ -1,5 +1,6 @@
 {
-  "item": "strange_matter",
+  "name": "strange_matter",
+  "type": "item",
   "tier": "4",
   "made_in": "particle_collider",
   "needs": {

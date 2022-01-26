@@ -1,5 +1,6 @@
 {
-  "item": "graviton_lens",
+  "name": "graviton_lens",
+  "type": "item",
   "tier": "4",
   "made_in": "assembler",
   "needs": {

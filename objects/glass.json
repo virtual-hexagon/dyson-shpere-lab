@@ -1,8 +1,9 @@
 {
-  "item": "glass",
+  "name": "glass",
+  "type": "item",
   "tier": "1",
   "made_in": "smelter",
   "needs": {
-    "stone": 2,
+    "stone": 2
   }
 }

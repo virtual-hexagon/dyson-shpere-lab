@@ -1,5 +1,6 @@
 {
-  "item": "photon_combiner",
+  "name": "photon_combiner",
+  "type": "item",
   "tier": "4",
   "made_in": "assembler",
   "needs": {

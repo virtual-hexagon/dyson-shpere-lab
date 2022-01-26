@@ -1,5 +1,6 @@
 {
-  "item": "gear",
+  "name": "gear",
+  "type": "item",
   "tier": "2",
   "needs": {
     "iron_ingot" : 1

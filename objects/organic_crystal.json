@@ -1,5 +1,6 @@
 {
-  "item": "organic_crystal",
+  "name": "organic_crystal",
+  "type": "item",
   "tier": "3",
   "made_in": "chemical_plant",
   "needs": {

@@ -1,5 +1,6 @@
 {
-  "item": "crude_oil",
+  "name": "crude_oil",
+  "type": "item",
   "tier": "0",
   "needs": "none",
   "made_in": "vain"

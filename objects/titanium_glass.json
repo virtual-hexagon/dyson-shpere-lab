@@ -1,5 +1,6 @@
 {
-  "item": "titanium_glass",
+  "name": "titanium_glass",
+  "type": "item",
   "tier": "4",
   "made_in": "assembler",
   "needs": {

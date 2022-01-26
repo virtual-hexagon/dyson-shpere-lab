@@ -1,10 +1,11 @@
 {
-  "item": "diamond",
+  "name": "diamond",
+  "type": "item",
   "tier": "2",
   "made_in": "smelter",
   "needs": 
     { 
-      "energetic_graphite": 1,
+      "energetic_graphite": 1
     },  
   "alt": "vain"
 }

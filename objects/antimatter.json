@@ -1,5 +1,6 @@
 {
-  "item": "antimatter",
+  "name": "antimatter",
+  "type": "item",
   "tier": "1",
   "made_in": "assembler",
   "needs": {

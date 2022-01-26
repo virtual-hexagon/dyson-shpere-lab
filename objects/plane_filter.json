@@ -1,5 +1,6 @@
 {
-  "item": "plane_filter",
+  "name": "plane_filter",
+  "type": "item",
   "tier": "4",
   "made_in": "assembler",
   "needs": {

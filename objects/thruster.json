@@ -1,5 +1,6 @@
 {
-  "item": "thruster",
+  "name": "thruster",
+  "type": "item",
   "tier": "3",
   "made_in": "assembler",
   "needs": {

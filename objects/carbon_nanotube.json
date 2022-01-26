@@ -1,10 +1,11 @@
 {
-  "item": "carbon_nanotube",
+  "name": "carbon_nanotube",
+  "type": "item",
   "tier": "4",
   "made_in": "chemical_plant",
   "needs": {
     "graphene": 3,
-    "titanium_ingot": 1,
+    "titanium_ingot": 1
   },
   "alt": "vain"
 }

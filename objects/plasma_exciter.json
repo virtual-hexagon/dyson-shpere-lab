@@ -1,5 +1,6 @@
 {
-  "item": "plasma_exciter",
+  "name": "plasma_exciter",
+  "type": "item",
   "tier": "4",
   "made_in": "assembler",
   "needs": {

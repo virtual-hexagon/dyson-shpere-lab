@@ -1,5 +1,6 @@
 {
-  "item": "steel",
+  "name": "steel",
+  "type": "item",
   "tier": "2",
   "made_in": "smelter",
   "needs": {

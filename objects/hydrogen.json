@@ -1,5 +1,6 @@
 {
-  "item": "hydrogen",
+  "name": "hydrogen",
+  "type": "item",
   "tier": "1",
   "made_in": ["fractionator", "oil_refinery", "vien"],
   "needs": {

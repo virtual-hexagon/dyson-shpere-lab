@@ -1,5 +1,6 @@
 {
-  "item": "titanium_ingot",
+  "name": "titanium_ingot",
+  "type": "item",
   "tier": "1",
   "made_in": "smelter",
   "needs": {
