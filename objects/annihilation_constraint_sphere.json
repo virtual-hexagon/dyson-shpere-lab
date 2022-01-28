@@ -1,7 +1,7 @@
 {
   "name": "annihilation_constraint_shpere",
   "type": "item",
-  "tier": "5",
+  "tier": "6",
   "made_in": "assembler",
   "needs": {
     "particle_container": 1,

@@ -1,7 +1,7 @@
 {
   "name": "circuit_board",
   "type": "item",
-  "tier": "3",
+  "tier": "2",
   "needs": {
     "iron_ingot": 2,
     "copper_ingot": 2
