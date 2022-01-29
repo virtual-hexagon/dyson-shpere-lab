@@ -4,7 +4,7 @@ import pathlib # handle paths in a non os specific way
 import json
 
 # build the path that we are going to load objects from
-obj_dir = pathlib.Path.cwd() / 'objects'
+obj_dir = pathlib.Path.cwd() / 'objects' / 'items'
 
 # lambda to validate that file is a json file
 is_json = lambda de: (pathlib.Path(de.path).suffix.lower() == '.json')
@@ -92,5 +92,6 @@ def validate(data):
         else: 
             raise ValueError('tier data could not be validated')
     
-
-validate(data)   
+# Main Program
+validate(data)
+items = list(zip(*data))[1] # book contains all the recipes
