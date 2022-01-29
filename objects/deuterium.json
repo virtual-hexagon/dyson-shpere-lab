@@ -4,6 +4,12 @@
   "tier": "2",
   "made_in": "fractionator",
   "needs": {
-    "hydrogen": 1
-  }
+    "hydrogen": 100
+  },
+  "alt": [{
+    "made_in": "particle_collider",
+    "needs": {
+      "hydrogen": 10
+    }
+  }]
 }

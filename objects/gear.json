@@ -2,8 +2,8 @@
   "name": "gear",
   "type": "item",
   "tier": "2",
+  "made_in": "assembler",
   "needs": {
     "iron_ingot" : 1
-  },
-  "made_in": "assembler"
+  }
 }

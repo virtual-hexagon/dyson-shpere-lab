@@ -2,7 +2,7 @@
   "name": "antimatter",
   "type": "item",
   "tier": "1",
-  "made_in": "assembler",
+  "made_in": "particle_collider",
   "needs": {
     "critical_photon": 2
   }

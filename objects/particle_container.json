@@ -8,8 +8,11 @@
     "copper_ingot": 2,
     "graphene": 2
   },
-  "alt": {
-    "unipolar_magnet": 10,
-    "copper_ingot": 2
-  }
+  "alt": [{
+    "made_in":"assembler",
+    "needs": {
+      "unipolar_magnet": 10,
+      "copper_ingot": 2
+    }
+  }]
 }

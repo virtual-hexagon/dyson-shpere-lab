@@ -8,9 +8,12 @@
     "graphene": 2,
     "hydrogen": 12
   },
-  "alt": {
-    "optical_grating_crystal": 4,
-    "graphene": 2,
-    "hydrogen": 12
-  }
+  "alt": [{
+    "made_in": "assembler",
+    "needs":{
+      "optical_grating_crystal": 4,
+      "graphene": 2,
+      "hydrogen": 12
+    }
+  }]
 }

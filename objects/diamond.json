@@ -3,9 +3,13 @@
   "type": "item",
   "tier": "2",
   "made_in": "smelter",
-  "needs": 
-    { 
+  "needs": {
       "energetic_graphite": 1
     },  
-  "alt": "vain"
+  "alt": [{
+    "made_in":"smelter",
+    "needs": {
+      "kimberlite_ore": 1
+    }
+  }]
 }

@@ -2,8 +2,8 @@
   "name": "light_oil",
   "type": "item",
   "tier": "1",
+  "made_in": "oil_refinery",
   "needs": {
     "crude_oil": 2
-  },
-  "made_in": "oil_refinery"
+  }
 }

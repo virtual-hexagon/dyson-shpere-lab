@@ -8,5 +8,8 @@
     "stone": 8,
     "water": 4
   },
-  "alt": "vien"
+  "alt": [{
+    "made_in": "vien",
+    "needs": "none"
+  }] 
 }

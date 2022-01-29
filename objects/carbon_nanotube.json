@@ -7,5 +7,10 @@
     "graphene": 3,
     "titanium_ingot": 1
   },
-  "alt": "vain"
+  "alt": [{
+    "made_in": "chemical_plant",
+    "needs": {
+      "spiniform_stalagmite_crystal": 2
+    } 
+  }]
 }

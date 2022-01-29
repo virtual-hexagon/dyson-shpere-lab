@@ -1,7 +1,7 @@
 {
   "name": "universe_matrix",
   "type": "item",
-  "tier": "2",
+  "tier": "9",
   "made_in": "research_facility",
   "needs": {
     "electromagnetic_matrix": 1,

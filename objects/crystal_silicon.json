@@ -6,5 +6,10 @@
   "needs": {
     "high_purity_silicon": 1
   },
-  "alt": "vain"
+  "alt": [{
+    "made_in": "assembler",
+    "needs":{
+      "fractal_silicon": 1
+    }
+  }]
 }

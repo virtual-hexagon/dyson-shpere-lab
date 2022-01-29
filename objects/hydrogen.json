@@ -2,15 +2,33 @@
   "name": "hydrogen",
   "type": "item",
   "tier": "1",
-  "made_in": ["fractionator", "oil_refinery", "vien"],
+  "made_in": "oil_refinery",
   "needs": {
     "crude_oil": 2
   },
-  "alt": {
-    "vien": "none",
-    "xray_cracking": {
-      "light_oil": 1,
-      "hydrogen": 2
+  "alt":[
+    {
+      "made_in": "oil_refinery",
+      "needs":{
+        "light_oil": 1,
+        "hydrogen": 2
+      }
+    },
+    {
+      "made_in": ["particle_collider", "vien"],
+      "needs": {
+        "critical_photon": 2
+      }
+    },
+    {
+      "made_in": "chemical_plant",
+      "needs": {
+        "fire_ice": 2
+      }
+    },
+    {
+      "made_in": "vien",
+      "needs" : "none"
     }
-  }
+  ]
 }

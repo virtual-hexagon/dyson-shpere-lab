@@ -6,10 +6,11 @@
   "needs": {
     "coal": 2
   },
-  "alt":{
-    "xray_cracking": {
+  "alt": [{
+    "made_in": "refining_facility",
+    "needs": {
       "hydrogen": 2,
       "light_oil": 1
     }
-  }
+  }]
 }

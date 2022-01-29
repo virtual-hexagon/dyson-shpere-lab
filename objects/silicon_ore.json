@@ -6,5 +6,8 @@
   "needs": {
     "stone": 10
   },
-  "alt": "vain"
+  "alt": [{
+    "made_in": "vein",
+    "needs": "none"
+  }]
 }

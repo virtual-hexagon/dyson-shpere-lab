@@ -7,8 +7,11 @@
     "prism": 2,
     "circuit_board": 1
   },
-  "alt": {
-    "circuit_board": 1,
-    "optical_grating_crystal": 1
-  }
+  "alt": [{
+    "made_in": "assembler",
+    "needs": {
+      "circuit_board": 1,
+      "optical_grating_crystal": 1
+    }
+  }]
 }

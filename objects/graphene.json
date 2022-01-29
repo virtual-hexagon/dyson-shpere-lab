@@ -7,5 +7,10 @@
     "sulfuric_acid": 1,
     "energetic_graphite": 3
   },
-  "alt": "vien"
+  "alt": [{
+    "made_in": "chemical_plant",
+    "needs": {
+      "fire_ice": 2
+    }
+  }]
 }
