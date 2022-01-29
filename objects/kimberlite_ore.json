@@ -1,0 +1,7 @@
+{
+  "name": "kimberlite_ore",
+  "type": "item",
+  "tier": "0",
+  "needs": "none",
+  "made_in": "vein"
+}
