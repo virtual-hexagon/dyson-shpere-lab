@@ -87,11 +87,10 @@ def validate(data):
         else: 
             raise ValueError('JSON object name did not match file name. Object: {0} File: {1}'.format(obj["name"],file))
     
-    if validate_tier(obj, data):
-        print('--- tier data valid') 
-    else: 
-        raise ValueError('tier data could not be validated')
+        if validate_tier(obj, data):
+            print('--- tier data valid') 
+        else: 
+            raise ValueError('tier data could not be validated')
     
 
-
-validate(data)    
+validate(data)   
