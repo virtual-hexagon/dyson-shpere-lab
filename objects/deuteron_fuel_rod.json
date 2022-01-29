@@ -1,7 +1,7 @@
 {
-  "name": "carbon_nanotube",
+  "name": "deuteron_fuel_rod",
   "type": "item",
-  "tier": "4",
+  "tier": "6",
   "made_in": "assembler",
   "needs": {
     "deuterium": 20,

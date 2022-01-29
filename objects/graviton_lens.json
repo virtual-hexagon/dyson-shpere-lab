@@ -1,7 +1,7 @@
 {
   "name": "graviton_lens",
   "type": "item",
-  "tier": "4",
+  "tier": "7",
   "made_in": "assembler",
   "needs": {
     "diamond": 4,

@@ -1,7 +1,7 @@
 {
   "name": "gravity_matrix",
   "type": "item",
-  "tier": "2",
+  "tier": "8",
   "made_in": "research_facility",
   "needs": {
     "graviton_lens": 1,

@@ -1,7 +1,7 @@
 {
   "name": "photon_combiner",
   "type": "item",
-  "tier": "4",
+  "tier": "3",
   "made_in": "assembler",
   "needs": {
     "prism": 2,

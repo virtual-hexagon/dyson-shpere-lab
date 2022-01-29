@@ -3,7 +3,7 @@
   "type": "item",
   "tier": "2",
   "needs": {
-    "copper plate": 1,
+    "copper_ingot": 1,
     "magnet": 2
   },
   "made_in": "assembler"

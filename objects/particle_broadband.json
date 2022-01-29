@@ -1,7 +1,7 @@
 {
   "name": "particle_broadband",
   "type": "item",
-  "tier": "5",
+  "tier": "4",
   "made_in": "assembler",
   "needs": {
     "graphene": 2,

@@ -1,7 +1,7 @@
 {
   "name": "crystal_silicon",
   "type": "item",
-  "tier": "2",
+  "tier": "3",
   "made_in": "smelter",
   "needs": {
     "high_purity_silicon": 1

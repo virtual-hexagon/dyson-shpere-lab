@@ -1,7 +1,7 @@
 {
   "name": "quantum_chip",
   "type": "item",
-  "tier": "5",
+  "tier": "7",
   "made_in": "assembler",
   "needs": {
     "processor": 2,

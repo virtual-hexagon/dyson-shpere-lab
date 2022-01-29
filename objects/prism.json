@@ -1,7 +1,7 @@
 {
   "name": "prism",
   "type": "item",
-  "tier": "3",
+  "tier": "2",
   "made_in": "assembler",
   "needs": {
     "glass": 3

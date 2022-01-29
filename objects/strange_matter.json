@@ -1,10 +1,10 @@
 {
   "name": "strange_matter",
   "type": "item",
-  "tier": "4",
+  "tier": "6",
   "made_in": "particle_collider",
   "needs": {
-    "particle_collider": 2,
+    "particle_container": 2,
     "deuterium": 10,
     "iron_ingot": 2
   }
