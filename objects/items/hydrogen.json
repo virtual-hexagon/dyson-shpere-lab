@@ -15,7 +15,7 @@
       }
     },
     {
-      "made_in": ["particle_collider", "vien"],
+      "made_in": "particle_collider",
       "needs": {
         "critical_photon": 2
       }
