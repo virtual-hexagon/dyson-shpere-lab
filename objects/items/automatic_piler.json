@@ -1,0 +1,12 @@
+{
+  "name": "automatic_piler",
+  "type": "building",
+  "tier": "6",
+  "made_in": "assembler",
+  "needs": {
+    "steel": 3,
+    "gear": 4,
+    "super_magnetic_ring": 1,
+    "processor": 2
+  }
+}

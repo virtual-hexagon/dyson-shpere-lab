@@ -1,0 +1,11 @@
+{
+  "name": "splitter",
+  "type": "building",
+  "tier": "3",
+  "made_in": "assembler",
+  "needs": {
+    "iron_ingot": 3,
+    "gear": 2,
+    "circuit_board": 1
+  }
+}

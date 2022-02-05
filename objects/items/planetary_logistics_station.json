@@ -1,0 +1,12 @@
+{
+  "name": "planetary_logistics_station",
+  "type": "building",
+  "tier": "6",
+  "made_in": "assembler",
+  "needs": {
+    "steel": 40,
+    "titanium_ingot": 40,
+    "processor": 40,
+    "particle_container": 20
+  }
+}

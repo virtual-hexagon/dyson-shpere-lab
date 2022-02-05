@@ -1,0 +1,12 @@
+{
+  "name": "plane_smelter",
+  "type": "building",
+  "tier": "7",
+  "made_in": "assembler",
+  "needs": {
+    "arc_smelter": 1,
+    "frame_material": 5,
+    "plane_filter": 4,
+    "unipolar_magnet": 15
+  }
+}

@@ -1,0 +1,10 @@
+{
+  "name": "conveyor_belt_mk2",
+  "type": "building",
+  "tier": "5",
+  "made_in": "assembler",
+  "needs": {
+    "conveyor_belt_mk1": 3,
+    "electromagnetic_turbine": 1
+  }
+}

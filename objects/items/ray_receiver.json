@@ -1,0 +1,13 @@
+{
+  "name": "ray_receiver",
+  "type": "building",
+  "tier": "6",
+  "made_in": "assembler",
+  "needs": {
+    "steel": 20,
+    "high_purity_silicon": 20,
+    "photon_combiner": 10,
+    "processor": 5,
+    "super_magnetic_ring": 20
+  }
+}

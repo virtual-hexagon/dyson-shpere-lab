@@ -1,0 +1,11 @@
+{
+  "name": "assembling_machine_mk2",
+  "type": "building",
+  "tier": "5",
+  "made_in": "assembler",
+  "needs": {
+    "assembling_machine_mk1": 1,
+    "graphene": 8,
+    "processor": 4
+  }
+}

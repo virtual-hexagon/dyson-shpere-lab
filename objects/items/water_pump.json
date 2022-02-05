@@ -1,0 +1,12 @@
+{
+  "name": "water_pump",
+  "type": "building",
+  "tier": "4",
+  "made_in": "assembler",
+  "needs": {
+    "iron_ingot": 8,
+    "stone_brick": 4,
+    "electric_motor": 4,
+    "circuit_board": 2
+  }
+}

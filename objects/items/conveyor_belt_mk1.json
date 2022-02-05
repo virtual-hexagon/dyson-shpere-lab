@@ -1,0 +1,10 @@
+{
+  "name": "conveyor_belt_mk1",
+  "type": "building",
+  "tier": "3",
+  "made_in": "assembler",
+  "needs": {
+    "iron_ingot": 2,
+    "gear": 1
+  }
+}

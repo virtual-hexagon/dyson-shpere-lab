@@ -1,0 +1,9 @@
+{
+  "name": "accumulator_full",
+  "type": "building",
+  "tier": "7",
+  "made_in": "energy_exchanger",
+  "needs": {
+    "accumulator": 1
+  }
+}

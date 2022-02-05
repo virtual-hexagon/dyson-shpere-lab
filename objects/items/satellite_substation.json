@@ -1,0 +1,11 @@
+{
+  "name": "satellite_substation",
+  "type": "building",
+  "tier": "6",
+  "made_in": "assembler",
+  "needs": {
+    "wireless_power_tower": 1,
+    "super_magnetic_ring": 10,
+    "frame_material": 2
+  }
+}

@@ -1,0 +1,11 @@
+{
+  "name": "storage_tank",
+  "type": "building",
+  "tier": "2",
+  "made_in": "assembler",
+  "needs": {
+    "iron_ingot": 8,
+    "stone_brick": 4,
+    "glass": 4
+  }
+}

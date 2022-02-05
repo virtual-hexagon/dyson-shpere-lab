@@ -1,0 +1,12 @@
+{
+  "name": "artificial_star",
+  "type": "building",
+  "tier": "8",
+  "made_in": "assembler",
+  "needs": {
+    "titanium_alloy": 20,
+    "frame_material": 20,
+    "annihilation_constraint_sphere": 10,
+    "quantum_chip": 10
+  }
+}
