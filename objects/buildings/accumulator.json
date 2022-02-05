@@ -1,0 +1,11 @@
+{
+  "name": "accumulator",
+  "type": "building",
+  "tier": "6",
+  "made_in": "assembler",
+  "needs": {
+    "iron_plate": 6,
+    "super_magnetic_ring": 1,
+    "crystal_silicon": 6
+  }
+}

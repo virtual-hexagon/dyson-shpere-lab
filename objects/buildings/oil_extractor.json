@@ -1,0 +1,12 @@
+{
+  "name": "oil_extractor",
+  "type": "building",
+  "tier": "4",
+  "made_in": "assembler",
+  "needs": {
+    "steel": 12,
+    "stone_brick": 12,
+    "circuit_board": 6,
+    "plasma_exciter": 4
+  }
+}

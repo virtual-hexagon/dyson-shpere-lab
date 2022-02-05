@@ -1,0 +1,12 @@
+{
+  "name": "geothermal_power_station",
+  "type": "building",
+  "tier": "6",
+  "made_in": "assembler",
+  "needs": {
+    "steel": 15,
+    "copper_ingot": 20,
+    "photon_combiner": 4,
+    "super_magnetic_ring": 1
+  }
+}

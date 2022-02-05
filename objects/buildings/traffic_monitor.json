@@ -1,0 +1,12 @@
+{
+  "name": "traffic_monitor",
+  "type": "building",
+  "tier": "3",
+  "made_in": "assembler",
+  "needs": {
+    "iron_ingot": 3,
+    "gear": 2,
+    "glass": 1,
+    "circuit_board": 2
+  }
+}

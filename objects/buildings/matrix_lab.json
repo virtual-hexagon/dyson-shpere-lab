@@ -1,0 +1,12 @@
+{
+  "name": "matrix_lab",
+  "type": "building",
+  "tier": "3",
+  "made_in": "assembler",
+  "needs": {
+    "iron_plate": 8,
+    "glass": 4,
+    "circuit_board": 4,
+    "magnetic_coil": 4
+  }
+}

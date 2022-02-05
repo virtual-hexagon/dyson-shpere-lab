@@ -1,0 +1,10 @@
+{
+  "name": "wireless_power_tower",
+  "type": "building",
+  "tier": "4",
+  "made_in": "assembler",
+  "needs": {
+    "tesla_tower": 1,
+    "plasma_exciter": 3
+  }
+}

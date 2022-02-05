@@ -1,0 +1,11 @@
+{
+  "name": "conveyor_belt_mk3",
+  "type": "building",
+  "tier": "6",
+  "made_in": "assembler",
+  "needs": {
+    "conveyor_belt_mk2": 3,
+    "super_magnetic_ring": 1,
+    "graphene": 1
+  }
+}

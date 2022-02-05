@@ -1,0 +1,11 @@
+{
+  "name": "solar_panel",
+  "type": "building",
+  "tier": "3",
+  "made_in": "assembler",
+  "needs": {
+    "copper_ingot": 10,
+    "high_purity_silicon": 10,
+    "circuit_board": 5
+  }
+}

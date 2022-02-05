@@ -1,0 +1,12 @@
+{
+  "name": "mini_fusion_power_plant",
+  "type": "building",
+  "tier": "6",
+  "made_in": "assembler",
+  "needs": {
+    "titanium_alloy": 12,
+    "super_magnetic_ring": 10,
+    "carbon_nanotube": 8,
+    "processor": 4
+  }
+}

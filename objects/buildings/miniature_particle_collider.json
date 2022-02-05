@@ -1,0 +1,13 @@
+{
+  "name": "miniature_particle_collider",
+  "type": "building",
+  "tier": "6",
+  "made_in": "assembler",
+  "needs": {
+    "titanium_alloy": 20,
+    "frame_material": 20,
+    "super_magnetic_ring": 50,
+    "graphene": 10,
+    "processor": 8
+  }
+}

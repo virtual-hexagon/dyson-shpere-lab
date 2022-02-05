@@ -1,0 +1,12 @@
+{
+  "name": "spray_coater",
+  "type": "building",
+  "tier": "4",
+  "made_in": "assembler",
+  "needs": {
+    "steel": 4,
+    "plasma_exciter": 2,
+    "circuit_board": 2,
+    "microcrystalline_component": 2
+  }
+}

@@ -1,0 +1,12 @@
+{
+  "name": "fractionator",
+  "type": "building",
+  "tier": "5",
+  "made_in": "assembler",
+  "needs": {
+    "steel": 8,
+    "stone_brick": 4,
+    "glass": 4,
+    "processor": 1
+  }
+}

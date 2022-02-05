@@ -1,0 +1,11 @@
+{
+  "name": "interstellar_logistics_station",
+  "type": "building",
+  "tier": "7",
+  "made_in": "assembler",
+  "needs": {
+    "planetary_logistics_station": 1,
+    "titanium_alloy": 40,
+    "particle_container": 20
+  }
+}

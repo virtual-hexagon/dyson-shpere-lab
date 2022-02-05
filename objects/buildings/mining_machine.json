@@ -1,0 +1,12 @@
+{
+  "name": "mining_machine",
+  "type": "building",
+  "tier": "3",
+  "made_in": "assembler",
+  "needs": {
+    "iron_ingot": 4,
+    "circuit_board": 2,
+    "magnetic_coil": 2,
+    "gear": 2
+  }
+}

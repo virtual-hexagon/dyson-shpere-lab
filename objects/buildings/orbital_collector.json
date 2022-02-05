@@ -1,0 +1,12 @@
+{
+  "name": "orbital_collector",
+  "type": "building",
+  "tier": "8",
+  "made_in": "assembler",
+  "needs": {
+    "interstellar_logistics_station": 1,
+    "super_magnetic_ring": 50,
+    "reinforced_thruster": 20,
+    "accumulator_full": 20
+  }
+}

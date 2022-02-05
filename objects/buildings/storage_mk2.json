@@ -1,0 +1,10 @@
+{
+  "name": "storage_mk2",
+  "type": "building",
+  "tier": "3",
+  "made_in": "assembler",
+  "needs": {
+    "steel": 8,
+    "stone_brick": 8
+  }
+}

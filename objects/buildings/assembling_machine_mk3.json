@@ -1,0 +1,11 @@
+{
+  "name": "assembling_machine_mk3",
+  "type": "building",
+  "tier": "8",
+  "made_in": "assembler",
+  "needs": {
+    "assembling_machine_mk2": 1,
+    "particle_broadband": 8,
+    "quantum_chip": 2
+  }
+}

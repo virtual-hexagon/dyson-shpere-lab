@@ -1,0 +1,12 @@
+{
+  "name": "vertical_launching_silo",
+  "type": "building",
+  "tier": "8",
+  "made_in": "assembler",
+  "needs": {
+    "titanium_alloy": 80,
+    "frame_material": 30,
+    "graviton_lens": 20,
+    "quantum_chip": 10
+  }
+}

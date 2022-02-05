@@ -1,0 +1,12 @@
+{
+  "name": "em_rail_ejector",
+  "type": "building",
+  "tier": "6",
+  "made_in": "assembler",
+  "needs": {
+    "steel": 20,
+    "gear": 20,
+    "processor": 5,
+    "super_magnetic_ring": 10
+  }
+}

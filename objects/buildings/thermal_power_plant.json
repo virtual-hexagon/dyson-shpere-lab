@@ -1,0 +1,12 @@
+{
+  "name": "thermal_power_plant",
+  "type": "building",
+  "tier": "3",
+  "made_in": "assembler",
+  "needs": {
+    "iron_ingot": 10,
+    "stone_brick": 4,
+    "gear": 4,
+    "magnetic_coil": 4
+  }
+}
