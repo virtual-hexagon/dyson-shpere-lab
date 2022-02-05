@@ -94,4 +94,86 @@ def validate(data):
     
 # Main Program
 validate(data)
-items = list(zip(*data))[1] # book contains all the recipes
+
+# now that data is valid lets strip the file paths from the data set
+# book contains all of the recipies in the game
+book = list(zip(*data))[1] 
+
+# if we are on windows import the distributed graphviz lib
+# else if we are on any other platform we will assume graphviz is on the path already
+import platform
+if platform.system() == 'Windows':
+    graphviz_lib = pathlib.Path.cwd() / 'lib' / 'graphviz-2.50.0-win32' / 'bin'
+    os.environ["PATH"] += os.pathsep + str(graphviz_lib)
+
+import pydot as pd
+import networkx as nx
+
+get_all_in_tier = lambda n: [ item for item in book if int(item["tier"]) == n ]
+get_max_tier = lambda: int(max([ item["tier"] for item in book]))
+graph = pd.Dot("item_tree", graph_type="digraph")
+
+# Add nodes
+for n in range(0,):
+    [ graph.add_node(pd.Node(item["name"])) for item in get_all_in_tier(n) ]
+
+# Add edges
+for recipie in book:
+    [ graph.add_edge(pd.Edge( item, recipie["name"])) for item in recipie["needs"] if recipie["needs"] != "none"]
+        
+graph.write_png("pre_sort.png")
+
+nxgraph = nx.nx_pydot.from_pydot(graph)
+nodes = nx.algorithms.dag.lexicographical_topological_sort(nxgraph)
+nxgraph.update(edges=None,nodes=nodes)
+graph = nx.nx_pydot.to_pydot(nxgraph)
+graph.write_png("post_sort.png")
+
+# import networkx as nx
+# graph = nx.DiGraph()
+
+# get_all_in_tier = lambda n: [ item for item in book if int(item["tier"]) == n ]
+# get_max_tier = lambda: int(max([ item["tier"] for item in book]))
+
+# for item in get_all_in_tier(0):
+#     graph.add_node(item["name"])
+
+# pd_graph = nx.nx_pydot.to_pydot(graph)
+# pd_graph.write_png("output.png")
+
+
+
+
+
+# # The digraph is defined under graphviz which we will use for creating graphs object, nodes, and edges.
+# from graphviz import Digraph
+
+# outd = pathlib.Path.cwd() / 'output'
+
+# # setup graph
+# graph = Digraph()
+
+# graph.node('a', 'Machine Learning Errors')
+# graph.node('b', 'RMSE')
+# graph.node('c', 'MAE')
+
+# graph.edges(['ab', 'ac'])
+
+# graph.render()
+# graph.view()
+
+#graph.write_png(outd + "tree.png")
+
+
+# from flexx import flx
+
+# class Example(flx.Widget):
+#     def init(self):
+#         flx.Label(text='hello world')
+
+# # app = flx.App(Example)
+# # app.export('example.html', link=0)  # Export to single file
+# app = flx.App(Example)
+# #app.launch('app')  # to run as a desktop app
+# app.launch('browser')  # to open in the browser
+# #flx.run()  # mainloop will exit when the app is closed
