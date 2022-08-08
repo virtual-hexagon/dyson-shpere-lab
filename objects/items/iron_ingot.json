@@ -3,6 +3,7 @@
   "type": "item",
   "tier": "1",
   "made_in": "smelter",
+  "rate": 1.0,
   "needs": {
     "iron_ore": 1
   }

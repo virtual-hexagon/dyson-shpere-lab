@@ -3,6 +3,7 @@
   "type": "building",
   "tier": "3",
   "made_in": "assembler",
+  "rate": 0.333,
   "needs": {
     "iron_ingot": 2,
     "gear": 1
